@@ -99,6 +99,11 @@
     height: 275px;
 }
 
+.icono_pizza img:hover {
+    -webkit-transform: rotate(360deg);
+    transition: 2s ease-in-out;
+}
+
 .img_pizza{
     width: 200px;
     height: 200px;
